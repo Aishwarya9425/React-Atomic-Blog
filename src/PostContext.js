@@ -56,4 +56,4 @@ function usePosts() {
   return context;
 }
 
-export { PostContext, usePosts };
+export { PostProvider, usePosts };
