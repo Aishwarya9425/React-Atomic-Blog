@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Demo: https://react-atomic-blog.vercel.app/
+
+![app](https://github.com/Aishwarya9425/React-Atomic-Blog/assets/51038336/101a2908-3b04-4f29-94d0-97387aad26f9)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
